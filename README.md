@@ -1,4 +1,4 @@
-# garantida.net
+# 🎧 Garantida Podcast
 
 Podcast sobre renda básica—pessoal, comunitária e universal. Assine, ouça e participe!
 
