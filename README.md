@@ -2,6 +2,7 @@
 
 Podcast sobre renda básica—pessoal, comunitária e universal. Assine, ouça e participe!
 
-- Garantida Podcast: https://anchor.fm/garantida
+- Garantida Podcast: https://podcast.garantida.net
+- Feed RSS: https://anchor.fm/s/40e6f934/podcast/rss
 - Twitter: [@garantidapod](https://twitter.com/garantidapod)
-- Newsletter: [garantida.substack.com](https://garantida.substack.com)
+- Clube de Apoiadores: https://patreon.com/helderubi
