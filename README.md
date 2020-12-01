@@ -7,3 +7,7 @@ Podcast sobre renda básica—pessoal, comunitária e universal. Assine, ouça e
 - Twitter: [@garantidapod](https://twitter.com/garantidapod)
 - Grupo no Telegram: https://t.me/garantida
 - Clube de Apoiadores: https://patreon.com/helderubi
+
+## 🙏 Precisamos de 100 estrelas pra abrir um OpenCollective, então se puder por favor clica na ⭐
+
+Valeu! =)
